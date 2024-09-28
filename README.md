@@ -1,6 +1,6 @@
 **Problem Statement**
 
-The aim of this analysis is to evaluate the availability and effectiveness of shuttle services for homeless individuals and the range of services provided by various homeless service providers in the city. Understanding these elements can help improve transportation accessibility and service delivery to vulnerable populations.
+The aim of this analysis is to evaluate the availability and effectiveness of shuttle services for homeless individuals and the range of services provided by various homeless service providers in Washington, DC. Understanding these elements can help improve transportation accessibility and service delivery to vulnerable populations.
 
 **Methodology**
 
