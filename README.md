@@ -1,0 +1,2 @@
+# Analysis-of-Shuttle-Services-and-Homeless-Support-Programs-Insights-for-Improved-Accessibility
+Analysis of shuttle services and homeless support programs. It includes data cleaning in Excel, SQL queries, and insights aimed at improving accessibility and service delivery for homeless individuals. Explore the methodologies and findings to understand the availability of services and identify opportunities for enhancement in community support.
