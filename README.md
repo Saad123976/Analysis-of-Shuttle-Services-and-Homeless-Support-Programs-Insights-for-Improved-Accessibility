@@ -70,7 +70,7 @@ Homeless Services: Found that many programs offered case management and accessib
 
 The analysis provided valuable insights into the transportation and services available to homeless individuals in the city. 
 
-Recommendations for improvement include:
+**Recommendations for improvement include:**
 
 Enhancing shuttle service frequency on popular routes.
 Expanding meal programs to meet demand.
