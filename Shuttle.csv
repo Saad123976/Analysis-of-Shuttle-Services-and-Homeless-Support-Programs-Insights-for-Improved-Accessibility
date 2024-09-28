@@ -1,0 +1,180 @@
+Route_Id,Trips,Route_Name,Origin,Time_Of_Day,Route_Type,Estimated_Time,Stop_Id,Stop_Sequence_On_Route,City,State,Facility_Name,Address
+32,1,Sacred Heart Evening 2,Sacred Heart,Evening,Women's,23:41:00,16,2,Washington ,DC,Nativity Church/Shelter,6000 Georgia Avenue Nw
+23,1,New Covenant Morning,New Covenant,Morning,Women's,12:09:00,16,3,Washington ,DC,Nativity Church/Shelter,6000 Georgia Avenue Nw
+22,1,Nativity Evening 1,Nativity,Evening,Men's,23:45:00,16,1,Washington ,DC,Nativity Church/Shelter,6000 Georgia Avenue Nw
+18,1,Emery Morning 2,Emery,Morning,Women's,11:30:00,10,1,Washington ,DC,Emery Recreation Center,5701 Georgia Avenue Nw
+18,1,Emery Morning 1,Emery,Morning,Men's,12:15:00,10,1,Washington ,DC,Emery Recreation Center,5701 Georgia Avenue Nw
+2,1,801 East Morning 2,801 East,Morning,Men's,14:33:00,25,5,Washington ,DC,Thrive DC,1525 Newton Street Nw
+32,1,Sacred Heart Evening 2,Sacred Heart,Evening,Women's,23:30:00,22,1,Washington ,DC,Sacred Heart Church,1625 Park Road Nw
+31,1,Sacred Heart Evening 1,Sacred Heart,Evening,Men's,23:45:00,22,1,Washington ,DC,Sacred Heart Church,1625 Park Road Nw
+17,1,Epiphany Evening 5,Epiphany,Evening,Men's ,23:45:00,24,2,Washington ,DC,The Salvation Army,3335 Sherman Avenue Nw
+33,1,Salvation Army Morning,Salvation Army,Morning,Men's ,11:30:00,24,1,Washington ,DC,The Salvation Army,3335 Sherman Avenue Nw
+23,1,New Covenant Morning,New Covenant,Morning,Women's,11:51:00,8,2,Washington ,DC,Community of Christ,3526 Massachusetts Avenue Nw
+9,1,Banneker Morning,Banneker,Morning,Men's,11:30:00,4,1,Washington ,DC,Banneker Recreation Center,2500 Georgia Avenue Nw
+4,1,Adam's Drop-In Evening 1,Adam's Drop-In,Evening,Men's,20:30:00,2,1,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+13,2,Epiphany Evening 1,Epiphany,Evening,Men's,23:53:00,3,2,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+24,5,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,1:45:00,3,4,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+26,1,NY Ave Morning 2,NY Ave,Morning,Men's,14:07:00,2,2,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+5,1,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,21:15:00,2,1,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+24,4,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,0:45:00,3,4,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+24,3,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,23:45:00,3,4,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+24,2,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,22:45:00,3,4,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+13,3,Epiphany Evening 1,Epiphany,Evening,Men's,0:53:00,3,2,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+13,4,Epiphany Evening 1,Epiphany,Evening,Men's,1:53:00,3,2,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+13,1,Epiphany Evening 1,Epiphany,Evening,Men's,21:53:00,3,2,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+7,3,Adam's Morning 1,Adam's Shelter,Morning,Men's,13:15:00,3,1,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+5,2,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,22:45:00,2,1,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+28,1,S.O.M.E. Evening 1 (Alert Only),S.O.M.E.,Evening,Men's,19:13:00,2,2,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+24,1,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,21:45:00,3,4,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+3,2,801 East Morning 3,801 East,Morning,Men's,16:48:00,2,2,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+29,1,S.O.M.E. Evening 2,S.O.M.E.,Evening,Men & Women,19:20:00,2,2,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+2,1,801 East Morning 2,801 East,Morning,Men's,13:55:00,2,3,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+10,1,Bethany Evening 1 (Alert Only),Bethany ,Evening,Women's,19:34:00,2,4,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+7,1,Adam's Morning 1,Adam's Shelter,Morning,Men's,11:30:00,3,1,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+6,1,Adam's Drop-In Evening 3,Adam's Drop-In,Evening,Men & Women,0:00:00,2,1,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+8,1,Adam's Morning 2,Adam's Shelter,Morning,Men's,14:00:00,3,1,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+7,2,Adam's Morning 1,Adam's Shelter,Morning,Men's,12:15:00,3,1,Washington ,DC,Adams Place Shelter,2210 Adams Place Ne
+30,1,S.O.M.E. Evening 3 (Alert Only),S.O.M.E.,Evening,Women's,19:34:00,2,4,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+3,1,801 East Morning 3,801 East,Morning,Men's,14:18:00,2,2,Washington ,DC,Adams Place Day Center,2210 Adams Place Ne
+24,5,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,1:39:00,19,3,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+6,1,Adam's Drop-In Evening 3,Adam's Drop-In,Evening,Men & Women,0:07:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+15,1,Epiphany Evening 3,Epiphany,Evening,Men's,22:00:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+24,2,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,22:39:00,19,3,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+24,1,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,21:39:00,19,3,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+24,4,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,0:39:00,19,3,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+4,1,Adam's Drop-In Evening 1,Adam's Drop-In,Evening,Men's,20:37:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+5,2,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,22:52:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+25,2,NY Ave Morning 1,NY Ave,Morning,Men's,12:15:00,19,1,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+5,1,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,21:22:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+15,4,Epiphany Evening 3,Epiphany,Evening,Men's,2:00:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+25,1,NY Ave Morning 1,NY Ave,Morning,Men's,11:30:00,19,1,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+15,3,Epiphany Evening 3,Epiphany,Evening,Men's,1:00:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+24,3,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,23:39:00,19,3,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+25,3,NY Ave Morning 1,NY Ave,Morning,Men's,13:15:00,19,1,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+15,2,Epiphany Evening 3,Epiphany,Evening,Men's,0:00:00,19,2,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+28,1,S.O.M.E. Evening 1 (Alert Only),S.O.M.E.,Evening,Men's,19:20:00,19,3,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+26,1,NY Ave Morning 2,NY Ave,Morning,Men's,14:00:00,19,1,Washington ,DC,NY Ave Shelter,1355 New York Avenue Ne
+21,1,Kennedy Morning,Kennedy,Morning,Men's,11:30:00,12,1,Washington ,DC,Kennedy Recreation Center,1401 7Th Street Nw
+1,2,801 East Morning 1,801 East,Morning,Men's,12:33:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+1,1,801 East Morning 1,801 East,Morning,Men's,11:48:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+33,1,Salvation Army Morning,Salvation Army,Morning,Men's ,11:42:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+30,1,S.O.M.E. Evening 3 (Alert Only),S.O.M.E.,Evening,Women's,19:00:00,21,1,Washington ,DC,S.O.M.E.,71 O Street Nw
+7,2,Adam's Morning 1,Adam's Shelter,Morning,Men's,12:27:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+34,1,Tubman Morning 1,Tubman,Morning,Women's,11:50:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+7,3,Adam's Morning 1,Adam's Shelter,Morning,Men's,13:27:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+20,1,Greenleaf Morning 2,Greenleaf,Morning,Women's,11:54:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+21,1,Kennedy Morning,Kennedy,Morning,Men's,11:35:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+27,1,Pat Handy Morning 1,Pat Handy,Morning,Women's,12:03:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+29,1,S.O.M.E. Evening 2,S.O.M.E.,Evening,Men & Women,19:00:00,21,1,Washington ,DC,S.O.M.E.,71 O Street Nw
+28,1,S.O.M.E. Evening 1 (Alert Only),S.O.M.E.,Evening,Men's,19:00:00,21,1,Washington ,DC,S.O.M.E.,71 O Street Nw
+18,1,Emery Morning 1,Emery,Morning,Men's,12:31:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+3,2,801 East Morning 3,801 East,Morning,Men's,16:50:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+18,1,Emery Morning 2,Emery,Morning,Women's,11:58:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+9,1,Banneker Morning,Banneker,Morning,Men's,11:38:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+19,1,Greenleaf Morning 1,Greenleaf,Morning,Men's,11:45:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+25,3,NY Ave Morning 1,NY Ave,Morning,Men's,13:22:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+25,1,NY Ave Morning 1,NY Ave,Morning,Men's,11:37:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+23,1,New Covenant Morning,New Covenant,Morning,Women's,12:44:00,21,5,Washington ,DC,S.O.M.E.,71 O Street Nw
+7,1,Adam's Morning 1,Adam's Shelter,Morning,Men's,11:42:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+25,2,NY Ave Morning 1,NY Ave,Morning,Men's,12:22:00,21,2,Washington ,DC,S.O.M.E.,71 O Street Nw
+3,1,801 East Morning 3,801 East,Morning,Men's,14:30:00,21,3,Washington ,DC,S.O.M.E.,71 O Street Nw
+27,1,Pat Handy Morning 1,Pat Handy,Morning,Women's,11:53:00,5,2,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+23,1,New Covenant Morning,New Covenant,Morning,Women's,12:54:00,5,6,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+18,1,Emery Morning 2,Emery,Morning,Women's,11:48:00,5,2,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+11,1,Bethany Evening 2,Bethany ,Evening,Women's,21:00:00,5,1,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,23:30:00,5,1,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+34,1,Tubman Morning 1,Tubman,Morning,Women's,12:00:00,5,4,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+20,1,Greenleaf Morning 2,Greenleaf,Morning,Women's,11:44:00,5,2,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+10,1,Bethany Evening 1 (Alert Only),Bethany ,Evening,Women's,19:00:00,5,1,Washington ,DC,Bethany Women's Center,1333 N Street Nw
+24,2,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,22:35:00,9,2,Washington ,DC,Covenant House,7 New York Avenue Ne
+24,5,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,1:35:00,9,2,Washington ,DC,Covenant House,7 New York Avenue Ne
+24,1,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,21:35:00,9,2,Washington ,DC,Covenant House,7 New York Avenue Ne
+4,1,Adam's Drop-In Evening 1,Adam's Drop-In,Evening,Men's,20:45:00,9,3,Washington ,DC,Covenant House,7 New York Avenue Ne
+24,3,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,23:35:00,9,2,Washington ,DC,Covenant House,7 New York Avenue Ne
+24,4,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,0:35:00,9,2,Washington ,DC,Covenant House,7 New York Avenue Ne
+16,2,Epiphany Evening 4,Epiphany,Evening,Women's,1:24:00,20,3,Washington ,DC,Pat Handy Women's Shelter,810 5Th Street Nw
+27,1,Pat Handy Morning 1,Pat Handy,Morning,Women's,11:45:00,20,1,Washington ,DC,Pat Handy Women's Shelter,810 5Th Street Nw
+16,1,Epiphany Evening 4,Epiphany,Evening,Women's,0:39:00,20,3,Washington ,DC,Pat Handy Women's Shelter,810 5Th Street Nw
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,23:45:00,20,4,Washington ,DC,Pat Handy Women's Shelter,810 5Th Street Nw
+30,1,S.O.M.E. Evening 3 (Alert Only),S.O.M.E.,Evening,Women's,19:08:00,20,2,Washington ,DC,Pat Handy Women's Shelter,810 5Th Street Nw
+10,1,Bethany Evening 1 (Alert Only),Bethany ,Evening,Women's,19:08:00,20,2,Washington ,DC,Pat Handy Women's Shelter,810 5Th Street Nw
+1,1,801 East Morning 1,801 East,Morning,Men's,11:41:00,6,2,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+1,2,801 East Morning 1,801 East,Morning,Men's,12:26:00,6,2,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+3,1,801 East Morning 3,801 East,Morning,Men's,14:38:00,6,4,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+3,2,801 East Morning 3,801 East,Morning,Men's,16:58:00,6,4,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+34,1,Tubman Morning 1,Tubman,Morning,Women's,11:43:00,6,2,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+8,1,Adam's Morning 2,Adam's Shelter,Morning,Men's,14:15:00,6,2,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+26,1,NY Ave Morning 2,NY Ave,Morning,Men's,14:22:00,6,3,Washington ,DC,Central Union Mission,65 Massachusetts Avenue Nw
+14,1,Epiphany Evening 2,Epiphany,Evening,Men's,21:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+14,4,Epiphany Evening 2,Epiphany,Evening,Men's,1:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+15,3,Epiphany Evening 3,Epiphany,Evening,Men's,0:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+22,1,Nativity Evening 1,Nativity,Evening,Men's,0:07:00,7,2,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+4,1,Adam's Drop-In Evening 1,Adam's Drop-In,Evening,Men's,21:00:00,7,4,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+16,2,Epiphany Evening 4,Epiphany,Evening,Women's,1:15:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+15,4,Epiphany Evening 3,Epiphany,Evening,Men's,1:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+28,1,S.O.M.E. Evening 1 (Alert Only),S.O.M.E.,Evening,Men's,19:54:00,7,5,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+14,2,Epiphany Evening 2,Epiphany,Evening,Men's,23:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+13,3,Epiphany Evening 1,Epiphany,Evening,Men's,0:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+3,1,801 East Morning 3,801 East,Morning,Men's,14:47:00,7,5,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+1,1,801 East Morning 1,801 East,Morning,Men's,11:59:00,7,4,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+2,1,801 East Morning 2,801 East,Morning,Men's,14:15:00,7,4,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+17,1,Epiphany Evening 5,Epiphany,Evening,Men's ,23:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+13,1,Epiphany Evening 1,Epiphany,Evening,Men's,21:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+26,1,NY Ave Morning 2,NY Ave,Morning,Men's,14:32:00,7,4,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+15,2,Epiphany Evening 3,Epiphany,Evening,Men's,23:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+1,2,801 East Morning 1,801 East,Morning,Men's,12:44:00,7,4,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+15,1,Epiphany Evening 3,Epiphany,Evening,Men's,21:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+13,2,Epiphany Evening 1,Epiphany,Evening,Men's,23:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,23:36:00,7,2,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+16,1,Epiphany Evening 4,Epiphany,Evening,Women's,0:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+31,1,Sacred Heart Evening 1,Sacred Heart,Evening,Men's,0:00:00,7,2,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+13,4,Epiphany Evening 1,Epiphany,Evening,Men's,1:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+14,3,Epiphany Evening 2,Epiphany,Evening,Men's,0:30:00,7,1,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+11,1,Bethany Evening 2,Bethany ,Evening,Women's,21:06:00,7,2,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+8,1,Adam's Morning 2,Adam's Shelter,Morning,Men's,14:25:00,7,3,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+3,2,801 East Morning 3,801 East,Morning,Men's,17:07:00,7,5,Washington ,DC,Church of the Epiphany,1317 G Street Nw
+23,1,New Covenant Morning,New Covenant,Morning,Women's,12:33:00,23,4,Washington ,DC,Sherwood Recreation Center,640 10Th Street Ne
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,23:58:00,23,6,Washington ,DC,Sherwood Recreation Center,640 10Th Street Ne
+16,1,Epiphany Evening 4,Epiphany,Evening,Women's,0:52:00,23,5,Washington ,DC,Sherwood Recreation Center,640 10Th Street Ne
+16,2,Epiphany Evening 4,Epiphany,Evening,Women's,1:36:00,23,5,Washington ,DC,Sherwood Recreation Center,640 10Th Street Ne
+11,1,Bethany Evening 2,Bethany ,Evening,Women's,21:09:00,15,3,Washington ,DC,National Portrait Gallery,G Street Nw And 9Th Street Nw
+16,2,Epiphany Evening 4,Epiphany,Evening,Women's,1:19:00,15,2,Washington ,DC,National Portrait Gallery,G Street Nw And 9Th Street Nw
+16,1,Epiphany Evening 4,Epiphany,Evening,Women's,0:34:00,15,2,Washington ,DC,National Portrait Gallery,G Street Nw And 9Th Street Nw
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,23:39:00,15,3,Washington ,DC,National Portrait Gallery,G Street Nw And 9Th Street Nw
+24,5,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,1:30:00,18,1,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+16,2,Epiphany Evening 4,Epiphany,Evening,Women's,1:30:00,18,4,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+24,4,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,0:30:00,18,1,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+24,1,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,21:30:00,18,1,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+11,1,Bethany Evening 2,Bethany ,Evening,Women's,21:17:00,18,4,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+24,2,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,22:30:00,18,1,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+24,3,North Cap & Mass Evening,North Cap & Mass,Evening,Men's,23:30:00,18,1,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+16,1,Epiphany Evening 4,Epiphany,Evening,Women's,0:46:00,18,4,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,23:52:00,18,5,Washington ,DC,North Capitol & Massachusetts,North Capitol Street And Massachusetts Avenue Ne
+2,1,801 East Morning 2,801 East,Morning,Men's,13:42:00,14,2,Washington ,DC,Minnesota Ave & Benning Road ,Minnesota Avenue Ne And Benning Road Ne
+6,1,Adam's Drop-In Evening 3,Adam's Drop-In,Evening,Men & Women,0:30:00,14,4,Washington ,DC,Minnesota Ave & Benning Road ,Minnesota Avenue Ne And Benning Road Ne
+11,1,Bethany Evening 2,Bethany ,Evening,Women's,21:30:00,11,5,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+34,1,Tubman Morning 1,Tubman,Morning,Women's,11:30:00,11,1,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+5,1,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,21:36:00,11,3,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+10,1,Bethany Evening 1 (Alert Only),Bethany ,Evening,Women's,19:20:00,11,3,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+6,1,Adam's Drop-In Evening 3,Adam's Drop-In,Evening,Men & Women,0:21:00,11,3,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+5,1,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,11:06:00,11,5,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+30,1,S.O.M.E. Evening 3 (Alert Only),S.O.M.E.,Evening,Women's,19:20:00,11,3,Washington ,DC,Harriet Tubman Shelter,1900 Massachusetts Avenue Se
+19,1,Greenleaf Morning 1,Greenleaf,Morning,Men's,11:30:00,13,1,Washington ,DC,King Greenleaf Recreation Center,201 N Street Sw
+20,1,Greenleaf Morning 2,Greenleaf,Morning,Women's,11:30:00,13,1,Washington ,DC,King Greenleaf Recreation Center,201 N Street Sw
+16,2,Epiphany Evening 4,Epiphany,Evening,Women's,1:50:00,17,6,Washington ,DC,New Covenant Baptist Church,1301 W Street Se
+12,1,Bethany Evening 3,Bethany ,Evening,Women's,0:02:00,17,7,Washington ,DC,New Covenant Baptist Church,1301 W Street Se
+23,1,New Covenant Morning,New Covenant,Morning,Women's,11:30:00,17,1,Washington ,DC,New Covenant Baptist Church,1301 W Street Se
+16,1,Epiphany Evening 4,Epiphany,Evening,Women's,1:06:00,17,6,Washington ,DC,New Covenant Baptist Church,1301 W Street Se
+1,1,801 East Morning 1,801 East,Morning,Men's,11:30:00,1,1,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+14,3,Epiphany Evening 2,Epiphany,Evening,Men's,0:55:00,1,2,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+14,1,Epiphany Evening 2,Epiphany,Evening,Men's,21:55:00,1,2,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+5,1,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,21:49:00,1,4,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+3,2,801 East Morning 3,801 East,Morning,Men's,16:30:00,1,1,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+3,1,801 East Morning 3,801 East,Morning,Men's,14:00:00,1,1,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+2,1,801 East Morning 2,801 East,Morning,Men's,13:30:00,1,1,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+14,4,Epiphany Evening 2,Epiphany,Evening,Men's,1:55:00,1,2,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+1,2,801 East Morning 1,801 East,Morning,Men's,12:15:00,1,1,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+6,1,Adam's Drop-In Evening 3,Adam's Drop-In,Evening,Men & Women,0:45:00,1,5,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+14,2,Epiphany Evening 2,Epiphany,Evening,Men's,23:55:00,1,2,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+5,2,Adam's Drop-In Evening 2,Adam's Drop-In,Evening,Men & Women,23:20:00,1,3,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
+28,1,S.O.M.E. Evening 1 (Alert Only),S.O.M.E.,Evening,Men's,19:40:00,1,4,Washington ,DC,801 East Shelter,2700 Martin Luther King Jr Avenue Se
